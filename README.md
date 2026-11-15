@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # URL Shortener & Click Analytics Microservice
 
 A layered, production-oriented URL shortener built with **FastAPI**, **Valkey**, **SQLAlchemy 2.0**, and **Pydantic V2**.
